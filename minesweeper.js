@@ -9,7 +9,7 @@ const generatePlayerBoard = (numberOfRows, numberOfColumns) => {
   } 
   return board;
 };
-
+//create general board...
 
 const generateBombBoard = (numberOfRows, numberOfColumns, numberOfBombs) => {
   const board = [];
